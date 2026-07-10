@@ -103,11 +103,3 @@ printf는 기본적으로 문자열을 출력하는 함수. 따라서 숫자를 
 // \r : 출력 위치를 줄의 맨 앞으로 옮김
 // \b : 출력 위치를 한 칸 왼쪽으로 옮김
 // \a : 벨소리를 냄
-
-echo "# TIL" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/zolriz/TIL.git
-git push -u origin main

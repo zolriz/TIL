@@ -66,3 +66,4 @@ myprint(t3)
 
 # 튜플 길이 구하기 
 myprint(len(t3))
+
